@@ -1,2 +1,0 @@
-# ECE532_Hardware_Image_Filter
-ECE532_Hardware_Image_Filter course project
